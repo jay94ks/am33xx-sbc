@@ -9,10 +9,10 @@ current implementation has no `On/Off` button. when the power cable attached,
 this just turn the board on.
 
 ### Rendering:
-[](powersupply/AM33xx_PWR_RENDER.png)
+![](powersupply/AM33xx_PWR_RENDER.png)
 
 ### Schematic:
-[](powersupply/AM35xx_PWR.jpg)
+![](powersupply/AM35xx_PWR.jpg)
 
 ### Pinmap.
 Pins of the mini power-supply board has following pin map (2.54mm pitch):
